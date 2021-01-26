@@ -3,6 +3,20 @@
 ## Contents
 [Introduction](https://github.com/aakula7/Health-Literacy-COVID19/blob/master/README.md#introduction)
 
+[Materials](https://github.com/aakula7/Health-Literacy-COVID19/blob/master/README.md#materials)
+
+[Data](https://github.com/aakula7/Health-Literacy-COVID19/blob/master/README.md#data)
+
+[Data Web](https://github.com/aakula7/Health-Literacy-COVID19/blob/master/README.md#data-web)
+
+[Method Overview](https://github.com/aakula7/Health-Literacy-COVID19/blob/master/README.md#method-overview)
+
+[Discussion](https://github.com/aakula7/Health-Literacy-COVID19/blob/master/README.md#discussion)
+
+[Conclusion](https://github.com/aakula7/Health-Literacy-COVID19/blob/master/README.md#conclusion)
+
+[References](https://github.com/aakula7/Health-Literacy-COVID19/blob/master/README.md#references)
+
 ## Introduction
 Health literacy is a discrete form of literacy and becoming an increasingly important aspect for social, economic, and health development. It is already seen as a crucial tool for the prevention of non-communicable disease with investments in education and communication. However, there is not enough knowledge on health literacy’s impact on communicable diseases. Today with the rapid development of coronavirus disease 2019 (COVID-19), a communicable disease, there has been a need for people to acquire and apply health information. (Paakkari & Okan, 2020) Health communication intended to educate people has become widely available. However, there is also a lot of misinformation, thus forcing individuals to filter and be health literate.
 
