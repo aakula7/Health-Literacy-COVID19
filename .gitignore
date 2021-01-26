@@ -130,3 +130,6 @@ dmypy.json
 
 # Python Files
 Komali Template.ipynb
+**/*.csv
+**/*.xls
+**/*.xlsx
